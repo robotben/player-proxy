@@ -1,4 +1,4 @@
-Vimeo Player Proxy Worker
+### Vimeo Player Proxy Worker
 A high-performance Cloudflare Worker designed to proxy the Vimeo embedded player. This script intercepts player requests, rewrites internal resource URLs (M3U8 playlists, JS, and CSS), and strips security headers to allow for flexible embedding and custom referer control.
 
 🚀 Features
